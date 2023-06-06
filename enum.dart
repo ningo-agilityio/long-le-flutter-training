@@ -1,5 +1,4 @@
 # enum
-```
 enum day { Sunday, Monday, Tuesday, Wednesday, Thrusday, Friday, Saturday }
 
 void main() {
@@ -33,7 +32,7 @@ void main() {
   }
 }
 // Test
-/*enum day { T2, T3, T4, T5, T6, T7, CN }
+enum day { T2, T3, T4, T5, T6, T7, CN }
 
 void main() {
   var today = day.T2;
@@ -60,5 +59,4 @@ void main() {
       print("M:O A:O");
       break;
   }
-}*/
-```
+}
