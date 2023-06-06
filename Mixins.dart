@@ -1,5 +1,4 @@
 # Mixins
-```
 /*mixin Home {
   void MyHome() {
     print('have at home');
@@ -67,4 +66,4 @@ void main() {
   Human h = Human('Human', 18.5);
   h.run();
 }
-```
+
