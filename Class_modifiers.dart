@@ -1,5 +1,3 @@
-# Class_modifiers
-
 // final
 void main(List<String> args) {
   final String name = 'Dola';
