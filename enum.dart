@@ -1,4 +1,3 @@
-# enum
 enum day { Sunday, Monday, Tuesday, Wednesday, Thrusday, Friday, Saturday }
 
 void main() {
