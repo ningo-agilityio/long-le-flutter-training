@@ -1,5 +1,4 @@
 # abstract_class
-```
 main(List<String> args) {
   var user1 = User("Long", 20, "email@.com");
   user1.printInfor();
@@ -26,4 +25,3 @@ class User extends Person {
     print('name = $name - age = $age - email = $email');
   }
 }
-```
