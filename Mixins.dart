@@ -1,5 +1,5 @@
 # Mixins
-/*mixin Home {
+mixin Home {
   void MyHome() {
     print('have at home');
   }
@@ -20,10 +20,10 @@ main(List<String> args) {
   two tw = two();
   tw.MyHome();
   tw.Myschool();
-}*/
+}
 
 // Ex2
-/*mixin Fly {
+mixin Fly {
   void Flying() {
     print('I can fly');
   }
@@ -44,7 +44,7 @@ void main(List<String> args) {
   human2 h2 = human2();
   h2.Flying();
   h2.Walking();
-}*/
+}
 // ex3
 abstract class Animal {
   String name;
